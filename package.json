@@ -1,0 +1,16 @@
+{
+  "name": "empl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custtomApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node custtomApi.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
